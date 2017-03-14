@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    height:500px;
+    width:500px;
+    background-color:#546895;
+    }
+    section{
+        height:100px;
+        width:inherit;
+        border:12px;
+        border-color: #138742;
+    }
+    h1{
+        font-size: 35pt;
+        font-family: Comic
+    }
